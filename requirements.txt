@@ -12,3 +12,4 @@ wsgiref==0.1.2
 python-magic==0.4.6
 pyOpenSSL==0.15.1
 
+cryptography>=39.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
